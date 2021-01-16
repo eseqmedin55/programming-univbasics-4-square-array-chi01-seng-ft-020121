@@ -4,4 +4,4 @@ def square_array(array)
   while i < array.length 
   array[i] ** 2 << new_array
   i += 1 
-  
+  puts new_array
